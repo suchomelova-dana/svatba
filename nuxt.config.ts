@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineNuxtConfig({
   ssr: true, // keep SSR on; we'll pre-render to static via generate
   app: {
-    baseURL: "/YOUR_REPO_NAME/", // <-- important
+    baseURL: "/", // <-- important
     // Optional but recommended for GitHub Pages:
     // GitHub Pages + Jekyll can ignore folders starting with "_"
     buildAssetsDir: "/assets/",
