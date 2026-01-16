@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+body {
+  font-family: 'Cormorant Garamond', sans-serif;
+  @apply uppercase
+}
