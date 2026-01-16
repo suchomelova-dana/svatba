@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto px-4 py-20">
-    <h1 class="mx-auto w-fit text-center text-3xl sm:text-4xl md:text-5xl font-light">Svatební Web se připravuje</h1>
+    <h1 class="mx-auto w-fit text-center text-3xl sm:text-4xl font-light">Svatební Web se připravuje</h1>
 
     <div class="flex flex-col md:flex-row justify-center gap-10 pt-12">
       <!-- SVG 2 -->
