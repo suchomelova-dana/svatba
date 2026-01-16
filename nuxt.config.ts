@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineNuxtConfig({
   ssr: true, // keep SSR on; we'll pre-render to static via generate
   app: {
-    baseURL: "/svatba/",
+    baseURL: "/",
     buildAssetsDir: "/assets/",
   },
   compatibilityDate: "2025-07-15",
