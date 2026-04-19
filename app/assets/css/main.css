@@ -1,6 +1,12 @@
 @import "tailwindcss";
+@source "../../**/*.{vue,ts,js}";
+@source "../../../nuxt.config.ts";
+
+@theme {
+  --font-numbers: "Josefin Sans", sans-serif;
+}
 
 body {
   font-family: 'Cormorant Garamond', sans-serif;
-  @apply uppercase
+  @apply uppercase;
 }
