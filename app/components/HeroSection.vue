@@ -1,5 +1,5 @@
 <template>
-  <section class="relative w-full h-[60vh] min-h-[80vh] overflow-hidden">
+  <section class="relative w-full max-md:h-screen min-h-[80vh] overflow-hidden">
     <div
       class="absolute inset-0 bg-neutral-200 bg-cover bg-center"
       :style="{ backgroundImage: `url('/img/hero.jpg')` }"
