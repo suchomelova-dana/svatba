@@ -12,7 +12,7 @@ const blocks: InfoBlock[] = [
   },
   {
     icon: 'calendar',
-    lines: ['Sobota 23.5.2026 v 11:30'],
+    lines: ['Sobota 23.5.2026'],
     numbers: true,
   },
 ]
