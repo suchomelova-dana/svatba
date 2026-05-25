@@ -22,5 +22,6 @@
   },
   "devDependencies": {
     "@nuxtjs/google-fonts": "^3.2.0"
-  }
+  },
+  "packageManager": "pnpm@10.15.1"
 }
