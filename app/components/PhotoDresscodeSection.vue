@@ -8,7 +8,7 @@ const dresscodeText = 'Budeme rádi, když alespoň přibližně dodržíte bare
 
 const colors = ['#2e5c3e', '#bcd6c4', '#e8dcc5', '#1a2849', '#c89a34']
 
-const albumUrl = 'https://photos.app.goo.gl/yfi8em6nvvdkwyls6'
+const albumUrl = 'https://photos.app.goo.gl/Yfi8Em6NVvdkwyLs6'
 </script>
 
 <template>
