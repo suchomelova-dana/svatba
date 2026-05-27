@@ -24,6 +24,7 @@ const nedele = [
 <template>
   <div class="bg-white text-neutral-600">
     <HeroSection />
+    <AlbumLink />
     <InfoRow />
     <PhotoStrip />
     <ProgramSection />
